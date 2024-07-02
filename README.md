@@ -1,4 +1,4 @@
-# Guildilized Discord Bot
+# pgCclean - Discord Bot
 
 ## 開発
 

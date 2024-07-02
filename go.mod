@@ -1,4 +1,4 @@
-// module
+module github.com/gw31415/pgcclean
 
 go 1.22.4
 
